@@ -15,6 +15,7 @@ export default function ModelCard({
           autoPlay
           loop
           muted
+            playsInline
           className="object-cover w-full h-full"
         ></video>
       </div>

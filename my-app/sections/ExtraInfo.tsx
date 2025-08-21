@@ -21,6 +21,7 @@ export default function ExtraInfo() {
             autoPlay
             muted
             loop
+                playsInline
             className="object-contain"
           ></video>
         </div>
