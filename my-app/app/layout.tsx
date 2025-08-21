@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     siteName: "Endorphin Technologies",
     images: [
       {
-        url: "/nav-logo-black.png",
+        url: "/nav-logo.png",
         width: 1200,
         height: 630,
         alt: "Endorphin Technologies Logo",
@@ -47,12 +47,12 @@ export const metadata: Metadata = {
     title: "Endorphin Technologies",
     description:
       "Technology, Strategy, Velocity. Innovative technology solutions and strategic consulting.",
-    images: ["/nav-logo-black.png"],
+    images: ["/nav-logo.png"],
   },
   icons: {
-    icon: "/nav-logo-black.png",
-    shortcut: "/nav-logo-black.png",
-    apple: "/nav-logo-black.png",
+    icon: "/nav-logo.png",
+    shortcut: "/nav-logo.png",
+    apple: "/nav-logo.png",
   },
   manifest: "/site.webmanifest",
 };
