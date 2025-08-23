@@ -19,7 +19,8 @@ export default function Podcast() {
         </p>
 
         <Link
-          href="/"
+          href={"https://www.youtube.com/channel/UCmvR0rj3JKsfLAJwuFHsAjA"}
+          target="_blank"
           className="flex gap-2 text-xl items-center hover:cursor-pointer group hover:underline transition-all"
         >
           Episodes{" "}
