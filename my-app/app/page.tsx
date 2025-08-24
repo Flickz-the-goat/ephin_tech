@@ -4,6 +4,7 @@ import Footer from "@/sections/Footer";
 import Hero from "@/sections/Hero";
 import Model from "@/sections/Model";
 import Podcast from "@/sections/Podcast";
+import Team from "@/sections/Team";
 
 export default function Home() {
     return (
@@ -13,6 +14,7 @@ export default function Home() {
             <ExtraInfo />
             <Model/>
             <Podcast />
+            <Team />
             <Footer />
         </main>
     );
